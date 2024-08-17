@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.main {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    color: #333;
+    font-size: 2em;
+    text-align: center;
+}
+
+.input-section {
+    margin: 20px 0;
+}
+
+.plot {
+    margin: 20px 0;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
